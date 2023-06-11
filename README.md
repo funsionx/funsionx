@@ -1,1 +1,1 @@
-[![My tools](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=funsionx&hide=html,scss,css,python&theme=dracula)](https://github.com/funsionx/github-readme-stats)
+[![My tools](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=funsionx&hide=html,scss,css,python,astro&theme=dracula)](https://github.com/funsionx/github-readme-stats)
