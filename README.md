@@ -1,5 +1,12 @@
 # Max => Web-developer
+Young enthusiastic web-developer from Moscow, Russia ![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "Russian Federation"). Most experience in frontend-development (React and Typescript ecosystem). Also worked with backend (mostly Tokio Rust ecosystem). I am open for work, below you will see my contacts :)
 
+<p align="left">
+  <a href="https://t.me/funsionM">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+//https://docdro.id/vFbkZ3m - pdf
 ## I know:
 
 ### Frontend tools:
