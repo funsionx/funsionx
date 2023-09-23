@@ -1,7 +1,7 @@
 # Max => Web-developer
 ### Young enthusiastic web-developer from ![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "Russian Federation") Moscow, Russia. 
 
-Most experience in frontend-development (React and Typescript ecosystem). Also worked with backend (mostly Tokio Rust ecosystem). I am open for work, below you can see my contacts :)
+Most experience in frontend-development (React and Typescript ecosystem). Also worked with backend (mostly with Tokio Rust ecosystem). I am open for work, below you can see my contacts :)
 
 <div align="left" text-align="cenye">
   <a href="https://t.me/funsionM">
@@ -9,7 +9,7 @@ Most experience in frontend-development (React and Typescript ecosystem). Also w
   </a>&nbsp;&nbsp;
 </div>
 <a href="https://docdro.id/vFbkZ3m">
-    ⬛  &nbsp;&nbsp;My CV is here. Soon I will add my personal website there 
+    ⬛  &nbsp;&nbsp;My CV is here. Soon I will add my personal website here 
 </a>
 
 ## I know and use:
