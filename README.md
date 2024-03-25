@@ -9,7 +9,7 @@ Most experience in frontend-development (React and Typescript ecosystem). Also w
   </a>&nbsp;&nbsp;
 </div>
 <a href="https://docdro.id/vFbkZ3m">
-    ⬛  &nbsp;&nbsp;My CV is here. Soon I will add my personal website here 
+    ⬛  &nbsp;&nbsp;My CV. Soon I will add my personal website here 
 </a>
 
 ## I know and use:
