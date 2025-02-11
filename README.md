@@ -4,12 +4,12 @@
 Most experience in frontend-development (React and Typescript ecosystem). Also worked with backend (mostly with Tokio Rust ecosystem). I am open for work, below you can see my contacts :)
 
 <div align="left" text-align="cenye">
-  <a href="https://t.me/funsionM">
+  <a href="https://t.me/funsionx">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
 </div>
-<a href="https://docdro.id/vFbkZ3m">
-    [My CV](https://link3.to/maxim_agapov)
+<a href="https://link3.to/maxim_agapov">
+My CV
 </a>
 
 ## I know and use:
